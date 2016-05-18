@@ -4,7 +4,7 @@
 4. echo 'Bugsnag.apiKey = "YOUR-API-KEY-HERE";' > www/js/bugsnag_apikey.js
 5. echo 'window.ANDROID_SENDER_ID = "YOUR-ANDROID-ID-HERE";' > www/shared/js/android_sender_id.js
 6. cordova prepare
-7. Open the project in ipad platforms/ios/ScChat.xcodeproj
+7. Inside xcode -> File -> Open -> platforms/ios/ScChat.xcodeproj
 8. Change Bundle iderntifier to chat.savantcare.com
 9. In xcode-> change team to kedia.vikas@gmail.com
 10. In xcode -> ScChat -> Iphone 
